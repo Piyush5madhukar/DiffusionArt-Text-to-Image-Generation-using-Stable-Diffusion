@@ -1,4 +1,5 @@
 #Text to image generation using  stable diffusion
+![Screenshot (607)](https://github.com/Piyush5madhukar/DiffusionArt-Text-to-Image-Generation-using-Stable-Diffusion/assets/105438331/87f344d0-1fdf-4b1e-af68-89c9177e9559)
 
 
 STEPS
