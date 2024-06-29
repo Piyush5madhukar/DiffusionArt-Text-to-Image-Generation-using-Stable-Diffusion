@@ -27,6 +27,8 @@ libraries
 
 
 -StableDiffusionPipeline(CLASS): This is a class within the diffusers library that provides functionalities for generating images using a stable diffusion model.
+![Screenshot 2024-06-29 135621](https://github.com/Piyush5madhukar/DiffusionArt-Text-to-Image-Generation-using-Stable-Diffusion/assets/105438331/7c7b1e44-cdbb-4552-945b-b5749b9c60c9)
+
 
 -pipeline: This is a high-level API within the transformers library that provides easy-to-use interfaces for various NLP tasks.
 
